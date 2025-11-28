@@ -1,8 +1,9 @@
-# Kiro Week 1 Challenge - Micro Tools
+# Kiro Week 1 Challenge - Micro Tools - Cron Builder and Explainer
+A modern, clean single-page application for understanding and building cron expressions.
 
 ![alt text](image.png)
 ![alt text](<Screenshot 2025-11-28 225340.png>)
-A modern, clean single-page application for understanding and building cron expressions.
+
 
 ## Problem Statement
 
