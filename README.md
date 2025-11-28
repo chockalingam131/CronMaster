@@ -1,5 +1,7 @@
 # Kiro Week 1 Challenge - Micro Tools
 
+![alt text](image.png)
+![alt text](<Screenshot 2025-11-28 225340.png>)
 A modern, clean single-page application for understanding and building cron expressions.
 
 ## Problem Statement
@@ -70,17 +72,6 @@ npm run test:ui # Run tests with UI
 │   └── cronParser.test.ts
 └── .kiro/                     # Kiro configuration
 ```
-
-## Screenshots
-
-### Light Mode - Explain Cron
-![Explain Cron Light Mode](screenshots/explain-light.png)
-
-### Dark Mode - Build Cron
-![Build Cron Dark Mode](screenshots/build-dark.png)
-
-### Mobile Responsive
-![Mobile View](screenshots/mobile.png)
 
 ## Technologies
 
